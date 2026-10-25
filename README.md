@@ -8,6 +8,7 @@ multiagente con Python, LangGraph y modelos de lenguaje.
 | Laboratorio | Descripción | Documentación |
 |---|---|---|
 | [Laboratorio 0](./laboratorio-0/) | Equipo editorial multiagente con LangGraph y Groq | [README](./laboratorio-0/README.md) · [Resumen](./laboratorio-0/resumen.md) |
+| [Laboratorio 1](./laboratorio-1/) | Respuesta a incidentes de pagos multiagente (entrega 01) | [README](./laboratorio-1/README.md) · [Resumen](./laboratorio-1/resumen.md) |
 
 Cada laboratorio mantiene su notebook, sus instrucciones de ejecución y su
 resumen conceptual en su propia carpeta.
