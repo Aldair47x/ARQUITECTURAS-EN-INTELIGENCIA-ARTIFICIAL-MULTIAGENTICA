@@ -1,0 +1,6 @@
+langgraph>=1,<2
+groq>=0.30
+pydantic>=2,<3
+pandas>=2.2.3,<3
+python-dotenv>=1,<2
+ipykernel
