@@ -12,3 +12,8 @@ __pycache__/
 .vscode/
 *.log
 .DS_Store
+
+# Generado por el notebook del laboratorio 6
+laboratorio-6/manual/
+laboratorio-6/indice_faiss/
+laboratorio-6/manual_pdf/
