@@ -23,8 +23,8 @@ Consulta el [resumen de temas y puntos clave](./resumen.md) antes o después de
 ejecutarlo. Todo es ficticio: políticas, tasas y clientes son inventados para
 la clase, y el ejemplo no aprueba créditos.
 
-> 📄 El notebook de la siguiente sesión, `06_MCP_A2A_LangGraph_Gradio.ipynb`, no
-> está incluido en esta carpeta.
+> 📄 El notebook de la siguiente sesión (MCP y A2A) está en el
+> [laboratorio 7](../laboratorio-7/).
 
 ## Preparar el entorno
 

@@ -12,6 +12,7 @@ multiagente con Python, LangGraph y modelos de lenguaje.
 | [Laboratorio 2](./laboratorio-2/) | Reembolsos con aprobación humana (human-in-the-loop) | [README](./laboratorio-2/README.md) · [Resumen](./laboratorio-2/resumen.md) |
 | [Laboratorio 5](./laboratorio-5/) | Sucursal bancaria multiagente: router, supervisor y jerarquía con Gradio | [README](./laboratorio-5/README.md) · [Resumen](./laboratorio-5/resumen.md) |
 | [Laboratorio 6](./laboratorio-6/) | Sucursal multiagente con RAG: un Supervisor y un agente que consulta el manual | [README](./laboratorio-6/README.md) · [Resumen](./laboratorio-6/resumen.md) |
+| [Laboratorio 7](./laboratorio-7/) | MCP y A2A: un Asesor usa herramientas de un servidor MCP y delega en otro agente por A2A | [README](./laboratorio-7/README.md) · [Resumen](./laboratorio-7/resumen.md) |
 
 Cada laboratorio mantiene su notebook, sus instrucciones de ejecución y su
 resumen conceptual en su propia carpeta.
